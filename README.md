@@ -71,7 +71,7 @@ Prediction-Analysis-Environmental-Data/
 │   ├── DATA.mat   # Temperature dataset
 │   └── precip_discharge_data.txt   # Precipitation and discharge dataset
 ├── src/                      # MATLAB scripts
-│   └── error_analysis.m      # Performance evaluation (MSE, correlation)
+│   └── Data_Analysis.mlx      # Performance evaluation (MSE, correlation)
 
 ```
 
